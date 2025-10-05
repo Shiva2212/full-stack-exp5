@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.0"
+  },
+  "name": "exp5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
